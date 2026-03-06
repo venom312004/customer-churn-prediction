@@ -77,6 +77,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📧 Contact
 
 **Author:** Pranjal Pandey
+
 **Email:** Pranjalpandey0301@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/pranjal-pandey-501a5a244
 
